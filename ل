@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>Attack On Titan</title>
+  <style>
+    body { font-family: Arial; background: #111; color: #fff; padding: 20px; }
+    h1 { color: #00ffff; }
+    p { margin-bottom: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Attack On Titan</h1>
+  <p>القصة: هذا الأنمي يحتوي على قصة مشوقة ومليئة بالأحداث.</p>
+  <p>الشخصيات: يتميز الأنمي بشخصيات قوية ومثيرة للاهتمام.</p>
+  <p>الأركات: يحتوي على عدة أركات رائعة ومترابطة.</p>
+  <p>الأسلحة: تتنوع الأسلحة في هذا العالم بطريقة فريدة.</p>
+  <p>الأعداء: يوجد خصوم مميزين يشكلون تحديًا حقيقيًا للأبطال.</p>
+</body>
+</html>
