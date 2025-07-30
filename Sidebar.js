@@ -1,0 +1,1 @@
+PLACEHOLDER - Sidebar component
